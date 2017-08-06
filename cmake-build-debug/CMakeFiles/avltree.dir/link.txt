@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/avltree.dir/src/avltree.c.o CMakeFiles/avltree.dir/src/node.c.o CMakeFiles/avltree.dir/src/main.c.o CMakeFiles/avltree.dir/src/avltreeprint.c.o CMakeFiles/avltree.dir/src/avltreebalance.c.o CMakeFiles/avltree.dir/src/avltreeinsert.c.o CMakeFiles/avltree.dir/src/avltreedelete.c.o CMakeFiles/avltree.dir/src/avltreebasic.c.o  -o avltree 

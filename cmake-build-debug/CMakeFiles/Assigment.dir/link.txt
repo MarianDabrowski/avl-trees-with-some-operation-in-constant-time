@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAssigment.a  CMakeFiles/Assigment.dir/library.c.o
+/usr/bin/ranlib libAssigment.a
